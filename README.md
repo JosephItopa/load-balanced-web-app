@@ -4,6 +4,9 @@
 #### Tech Stack
 - Docker, HTML, NGINX
 
+#### How to run
+- docker compose up -d
+
 #### EXPERIMENT (break it on purpose): 
 - Remove web2 from docker-compose.yml and run docker compose up -d. Does the balancer care?
 
